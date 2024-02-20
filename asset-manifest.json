@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PrashantC/Projects/APINews/static/css/main.1b256996.css",
+    "main.js": "/PrashantC/Projects/APINews/static/js/main.2282aea0.js",
+    "static/media/pexels-photo-3944454.jpeg": "/PrashantC/Projects/APINews/static/media/pexels-photo-3944454.2dbbf0f847d046c6f888.jpeg",
+    "index.html": "/PrashantC/Projects/APINews/index.html",
+    "main.1b256996.css.map": "/PrashantC/Projects/APINews/static/css/main.1b256996.css.map",
+    "main.2282aea0.js.map": "/PrashantC/Projects/APINews/static/js/main.2282aea0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b256996.css",
+    "static/js/main.2282aea0.js"
+  ]
+}
